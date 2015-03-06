@@ -1,7 +1,7 @@
 plugin.bootstrap_package {
 	settings {
 		less {
-gray-base=              #006699
+gray-base=              #b87142
 gray-darker=            lighten(@gray-base, 13.5%)
 gray-dark=              #aeaeae
 gray=                   lighten(@gray-base, 33.5%)
